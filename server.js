@@ -76,6 +76,6 @@ app.post("/register/submit_form.html", function(req, res ){
 //     res.status(200).json(result)
 //     })
 // })
-app.listen(3001,function(){
+app.listen(3002,function(){
 	console.log("server is running on 3001");
 })
